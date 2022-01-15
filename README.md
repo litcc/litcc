@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Chain
+- 🌱 I’m currently learning Rust and blockchain
+- 📫 How to reach me: i@litcc.com
+
+![](https://github-readme-stats.vercel.app/api?username=litcc&count_private=true&show_icons=true)
