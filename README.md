@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Chain
-- 🌱 I’m currently learning Rust and blockchain
+- 🌱 I’m currently engaged in blockchain security, responsible for on-chain security tool development, and on-chain contract security audit
 - 📫 How to reach me: i@litcc.com
 
 ![](https://github-readme-stats.vercel.app/api?username=litcc&count_private=true&show_icons=true)
