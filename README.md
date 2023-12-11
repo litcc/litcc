@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: i@litcc.com
 
 ![](https://github-readme-stats.vercel.app/api?username=litcc&count_private=true&show_icons=true)
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
